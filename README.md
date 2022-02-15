@@ -75,3 +75,6 @@ $ npm start test.txt
 > x1 = -1.5
 > x2 = 1
 ```
+
+### Reverted commit
+Link: [8deb44ea806395bd868be3b8293a4e17d6bc1635](https://github.com/nikolaichub/quadratic-equation-solver/commit/8deb44ea806395bd868be3b8293a4e17d6bc1635)
